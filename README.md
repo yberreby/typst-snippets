@@ -5,7 +5,7 @@
 [Typst](https://typst.app/) is great, but it's still quite young.
 As a result, it can be difficult to find up-to-date examples for various common tasks.
 
-I am using Typst regularly, and while most of my output is project-specific and not for (immediate) public release, I sometimes end up producing self-contained snippets that lend themselves well to being and adapted.
+I am using Typst regularly, and while most of my output is project-specific and not for (immediate) public release, I sometimes end up producing self-contained snippets that lend themselves well to being adapted.
 
 This repo is meant as a home for such snippets, when I find the time to properly clean up and extract them.
 
